@@ -1,1 +1,0 @@
-document.getElementById('cart-items').innerText = 'Cart functionality coming soon!';
